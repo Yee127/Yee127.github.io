@@ -741,8 +741,8 @@ header label {
   color: #fff;
 }
 .post-content {
-  padding-top: 2rem;
   text-align: justify;
+  border-radius: 5px;
 }
 .post-content h2,
 .post-content h3,
