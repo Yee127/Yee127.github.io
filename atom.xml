@@ -6,7 +6,7 @@
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2021-10-17T13:18:13.906Z</updated>
+  <updated>2021-10-18T04:31:14.460Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://yoursite.com/2021/10/17/mac/"/>
     <id>http://yoursite.com/2021/10/17/mac/</id>
     <published>2021-10-17T12:18:22.115Z</published>
-    <updated>2021-10-17T13:18:13.906Z</updated>
+    <updated>2021-10-18T04:31:14.460Z</updated>
     
     <content type="html"><![CDATA[<html><style>    .mac {        width:10px;        height:10px;        border-radius:5px;        float:left;        margin:10px 0 0 5px;    }    .b1 {        background:#E0443E;        margin-left: 10px;    }    .b2 { background:#DEA123; }    .b3 { background:#1AAB29; }    .warpper{        background:#eaeef3;        border-radius:5px;    }</style><div class="warpper">    <div class="mac b1"></div>    <div class="mac b2"></div>    <div class="mac b3"></div></div><br></html> <figure class="highlight cpp"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;iostream&gt;</span></span></span><br><span class="line"><span class="keyword">using</span> <span class="keyword">namespace</span> <span class="built_in">std</span>;</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span>&#123;</span><br><span class="line">    <span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>]]></content>
     
