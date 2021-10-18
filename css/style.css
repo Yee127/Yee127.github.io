@@ -1253,6 +1253,7 @@ header label {
 .highlight {
   color: #00193a;
   background: #eaeef3;
+  border-radius: 5px;
 }
 .highlight .code .keyword,
 .highlight .code .selector-tag,
